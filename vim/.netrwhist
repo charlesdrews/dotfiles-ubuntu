@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/csd'
+let g:netrw_dirhist_2='/home/csd/.android'
+let g:netrw_dirhist_3='/home/csd'
+let g:netrw_dirhist_4='/home/csd/Dropbox/Charlie/Practice/books/pydata-book'
+let g:netrw_dirhist_5='/home/csd/Dropbox/Charlie/Practice/books/pydata-book/ch03'
+let g:netrw_dirhist_6='/home/csd/Dropbox/Charlie/Practice/books/pydata-book'
+let g:netrw_dirhist_7='/home/csd/Dropbox/Charlie/Practice/books/pydata-book/ch03'
+let g:netrw_dirhist_8='/home/csd/Dropbox/Charlie/Projects/football-picks'
+let g:netrw_dirhist_9='/home/csd/Dropbox/Charlie/Practice/Python/test-first-dev/diveintopython-5.4/py'

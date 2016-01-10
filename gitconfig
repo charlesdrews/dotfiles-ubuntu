@@ -1,0 +1,10 @@
+[user]
+	name = Charles Drews
+	email = charlesdrews@gmail.com
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
+[filter "media"]
+	clean = git-media-clean %f
+	smudge = git-media-smudge %f
